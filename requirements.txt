@@ -1,0 +1,8 @@
+numpy
+protobuf
+pandas
+easydict
+torch
+pillow
+matplotlib
+jupyter
